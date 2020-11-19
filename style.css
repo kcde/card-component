@@ -48,3 +48,10 @@ body {
         background-position: -12% -265%, 114% 1168%;
     }
 }
+
+@media (min-width: 1445px) {
+    body {
+        background-size: 53%, 60%;
+        background-position: -12% -265%, 120% 809%;
+    }
+}
